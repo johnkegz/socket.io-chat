@@ -13,7 +13,7 @@
     "react": "16.9.0",
     "react-native": "0.61.5",
     "reactotron-react-native": "^4.0.3",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.4.0",
     "socket.io-client": "^2.3.0"
   },
   "devDependencies": {
